@@ -5,7 +5,3 @@ cat
 bigfoot
 
 cat
-
-this is a new branch
-
-I just pushed this code
